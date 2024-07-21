@@ -1,6 +1,7 @@
 ## Olá, meu nome é Marcos Jhonnathan (jhon)!
 
-Apaixonado por tecnoligia e criar soluções, atualmente sou bolsista integral e cuurso o 5° periodo de Engenharia de Software (UNDB - unidade de ensino superior dom bosco)
+Apaixonado por tecnologia e criar soluções, em busca da minha primeira oportunidade 
+Sou bolsista integral e curso o 5° periodo de Engenharia de Software (UNDB - unidade de ensino superior dom bosco)
 estou em busca de me tornar um Desenvolvimento mobile nativo com kotlin 
 
 🔭 Atualmente desenvolvi um projeto simples de calculo de custo que retorna o valor exato que irá gastar de cobustivel  em determinada viagem
