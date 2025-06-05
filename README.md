@@ -4,10 +4,7 @@ Apaixonado por tecnologia e criar soluções, em busca da minha primeira oportun
 Sou bolsista integral e curso o 5° periodo de Engenharia de Software (UNDB - unidade de ensino superior dom bosco)
 estou em busca de me tornar um Desenvolvimento mobile nativo com kotlin 
 
-🔭 Atualmente desenvolvi um projeto simples de calculo de custo que retorna o valor exato que irá gastar de combustivel  em determinada viagem
-
-Em desenvolvimento tenho um app para controle de acesso para a softhouse da faculdade e um app para calculo de custo para motorista de aplicativo, o app de controle de acesso foi um trabalho, mas estou levando a frente e melhorando.. ambos usando kotlin 
-
+Aqui você pode acompanhar meus projetos !!!
 ---
 
 ## 🚀 Minhas Skills
